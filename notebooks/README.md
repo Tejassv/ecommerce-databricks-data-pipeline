@@ -1,1 +1,1 @@
-Notebooks folder
+Ecommerce project python notebook
