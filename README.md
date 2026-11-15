@@ -46,9 +46,7 @@ CDC JSON → Auto Loader → Bronze CDC → Silver CDC → Event Ledger → SCD 
 ecommerce-databricks-data-pipeline/
 ├── README.md
 ├── notebooks/
-├── sample_data/
 ├── architecture/
-└── screenshots/
 ```
 
 ## Learning Outcomes
