@@ -49,6 +49,10 @@ ecommerce-databricks-data-pipeline/
 ├── architecture/ ![E-commerce Data Engineering Architecture](architecture/Architecture.png)
 ```
 
+## Architecture Diagram
+
+![E-commerce Data Engineering Architecture](architecture/Architecture.png)
+
 ## Learning Outcomes
 
 This project provided hands-on experience with incremental data ingestion, Delta Lake operations, CDC processing, historical data management, and data pipeline reliability concepts.
