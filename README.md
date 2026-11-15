@@ -38,7 +38,7 @@ CDC JSON → Auto Loader → Bronze CDC → Silver CDC → Event Ledger → SCD 
 - Processed INSERT, UPDATE, and DELETE events.
 - Implemented SCD Type 2 using Delta MERGE.
 - Maintained an event processing ledger.
-- Explored replay detection, failure recovery, and out-of-order event scenarios.
+- Explored replay detection, failure recovery, and out-of-order event scenarios - using an isolated test scenario
 
 ## Project Structure
 
