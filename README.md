@@ -46,7 +46,7 @@ CDC JSON → Auto Loader → Bronze CDC → Silver CDC → Event Ledger → SCD 
 ecommerce-databricks-data-pipeline/
 ├── README.md
 ├── notebooks/
-├── architecture/ ![E-commerce Data Engineering Architecture](architecture/yArchitecture.png)
+├── architecture/ ![E-commerce Data Engineering Architecture](architecture/Architecture.png)
 ```
 
 ## Learning Outcomes
